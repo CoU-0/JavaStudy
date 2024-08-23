@@ -43,7 +43,7 @@
 
 	</servlet-mapping>
 -->
-
+<!--  
 <servlet>
 		<servlet-name>Source</servlet-name>
 		<servlet-class>com.sample.Source</servlet-class>
@@ -75,7 +75,7 @@
 	<error-code>500</error-code>
 	<location>/error/error500.jsp</location>
 	</error-page>
-	
+	-->
 	
 	
 </web-app>
